@@ -1,9 +1,27 @@
 [
 	{
-		"key": "AM",
+		"key": "AC",
+		"latitude": -4.88,
+		"longitude": -65.34, ---
+		"name": "Acre"
+	},
+	{
+		"key": "AL",
 		"latitude": -4.88,
 		"longitude": -65.34,
 		"name": "Alagoas"
+	},
+	{
+		"key": "AP",
+		"latitude": -4.88,
+		"longitude": -65.34, ---
+		"name": "Amapa"
+	},
+	{
+		"key": "AM",
+		"latitude": -4.88,
+		"longitude": -65.34, ---
+		"name": "Amazonas"
 	},
 	{
 		"key": "BA",
@@ -18,16 +36,34 @@
 		"name": "Ceará"
 	},
 	{
+		"key": "DF",
+		"latitude": -15.19,
+		"longitude": -51.29,
+		"name": "Distrito Federal" ---
+	},
+	{
+		"key": "ES",
+		"latitude": -15.19,
+		"longitude": -51.29,
+		"name": "Espirito Santo" ---
+	},
+	{
 		"key": "GO",
 		"latitude": -15.92,
 		"longitude": -49.61,
 		"name": "Goiás"
 	},
 	{
-		"key": "MG",
-		"latitude": -18.76,
-		"longitude": -44.40,
-		"name": "Minas Gerais"
+		"key": "MA",
+		"latitude": -15.19,
+		"longitude": -51.29,
+		"name": "Maranhao" ---
+	},
+	{
+		"key": "MT",
+		"latitude": -13.05,
+		"longitude": -55.90,
+		"name": "Mato Grosso" ---
 	},
 	{
 		"key": "MS",
@@ -36,10 +72,22 @@
 		"name": "Mato Grosso do Sul"
 	},
 	{
-		"key": "MT",
-		"latitude": -13.05,
-		"longitude": -55.90,
-		"name": "Mato Grosso"
+		"key": "MG",
+		"latitude": -18.76,
+		"longitude": -44.40,
+		"name": "Minas Gerais"
+	},
+	{
+		"key": "PA",
+		"latitude": -8.33,
+		"longitude": -38.11, ---
+		"name": "Para"
+	},
+	{
+		"key": "PB",
+		"latitude": -8.33,
+		"longitude": -38.11, ---
+		"name": "Paraiba"
 	},
 	{
 		"key": "PE",
@@ -54,15 +102,69 @@
 		"name": "Paraná"
 	},
 	{
+		"key": "PE",
+		"latitude": -8.33,
+		"longitude": -38.11, ---
+		"name": "Pernanbuco"
+	},
+	{
+		"key": "PI",
+		"latitude": -8.33,
+		"longitude": -38.11, ---
+		"name": "Piaui"
+	},
+	{
+		"key": "RJ",
+		"latitude": -8.33,
+		"longitude": -38.11, ---
+		"name": "Rio de Janeiro"
+	},
+	{
+		"key": "RN",
+		"latitude": -8.33,
+		"longitude": -38.11, ---
+		"name": "Rio Grande do Norte"
+	},
+	{
+		"key": "RS",
+		"latitude": -29.22,
+		"longitude": -53.68,
+		"name": "Rio Grande do Sul"
+	},
+	{
+		"key": "RO",
+		"latitude": -29.22,
+		"longitude": -53.68,
+		"name": "Rondonia" -----
+	},
+	{
+		"key": "RR",
+		"latitude": -29.22,
+		"longitude": -53.68,
+		"name": "Roraima" -----
+	},
+	{
+		"key": "SC",
+		"latitude": -29.22,
+		"longitude": -53.68,
+		"name": "Santa Catarina" -----
+	},
+	{
 		"key": "SP",
 		"latitude": -22.03,
 		"longitude": -48.91,
 		"name": "São Paulo"
 	},
 	{
-		"key": "RS",
+		"key": "SE",
 		"latitude": -29.22,
 		"longitude": -53.68,
-		"name": "Rio Grande do Sur"
-	}
+		"name": "Sergipe" -----
+	},
+	{
+		"key": "TO",
+		"latitude": -29.22,
+		"longitude": -53.68,
+		"name": "Tocantins" -----
+	},
 ]
